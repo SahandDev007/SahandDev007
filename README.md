@@ -32,6 +32,6 @@ I build robust web and mobile applications using modern JavaScript stacks with a
 
 ## 📫 Let's Connect
 
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-%236FDA44?logo=upwork)](your-upwork-link)  
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-%236FDA44?logo=upwork)](https://www.upwork.com/freelancers/~01d151865e5df1ea38?mp_source=share)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin)](your-linkedin-link)  
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-%234285F4)](your-portfolio-link)  
