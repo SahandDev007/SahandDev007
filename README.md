@@ -1,22 +1,28 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Sahand Nassiri.
 
 **Full Stack Developer | MERN Stack Specialist | Mobile & Cloud Engineer**
 
 I build robust web and mobile applications using modern JavaScript stacks with a focus on performance and scalability. Passionate about solving complex problems through clean architecture and efficient code.
 
-## 🔧 Technical Toolkit
+## 🛠 Core Competencies
 
-**Frontend:**  
-React.js | Vue.js | Svelte | TypeScript | Tailwind CSS | Material UI  
+**Frontend Engineering**  
+→ React.js (Next.js) | Vue 3 (Nuxt) | Svelte | TypeScript  
+→ State Management (Redux/Zustand/Pinia)  
+→ Micro Frontends | Web Performance Optimization  
 
-**Backend:**  
-Node.js (Express/NestJS) | Golang | Laravel | Python  
+**Backend Systems**  
+→ Node.js (Express/NestJS) | Golang | Python  
+→ REST/GraphQL APIs | WebSockets | Message Queues (RabbitMQ)  
 
-**Mobile & Databases:**  
-React Native | Expo | MongoDB | PostgreSQL | Firebase  
+**Mobile & Data**  
+→ React Native (Expo) | Cross-platform Solutions  
+→ MongoDB | PostgreSQL | Firebase | Elasticsearch  
 
-**DevOps & Cloud:**  
-AWS | Docker | CI/CD Pipelines | WebSockets | GraphQL  
+**DevOps & Cloud**  
+→ AWS Certified Solutions Architect  
+→ CI/CD Pipelines (GitHub Actions/Jenkins)  
+→ Docker | Kubernetes | Terraform  
 
 ## 🌟 Featured Projects
 
