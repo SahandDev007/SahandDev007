@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sahand Nassiri.
 
-**Full Stack Developer | MERN Stack Specialist | Mobile & Cloud Engineer**
+**Full Stack Developer | MERN Stack Specialist | Mobile & AI & Blockchain Enthusiast**
 
 I build robust web and mobile applications using modern JavaScript stacks with a focus on performance and scalability. Passionate about solving complex problems through clean architecture and efficient code.
 
